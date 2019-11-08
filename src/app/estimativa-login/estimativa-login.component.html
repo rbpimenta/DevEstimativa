@@ -1,0 +1,27 @@
+<p>estimativa-login works!</p>
+
+<button (click)="authorize()">
+  Authorized
+</button>
+
+<br/><br/><br/>
+
+<form [formGroup]="form" (ngSubmit)="token()">
+  <div>
+    <label for="assertion">
+      Assertion
+    </label>
+    <input id="assertion" type="text" formControlName="assertion">
+  </div>
+
+  <button type="submit">
+    Token
+  </button>
+</form>
+
+
+<br/>
+
+<button (click)="getWorkItens()">
+  Work Itens
+</button>
