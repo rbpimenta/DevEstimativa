@@ -29,12 +29,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # Leituras e sites
 
-https://app.vsaex.visualstudio.com/app/view?clientId=837ec619-6395-4b22-b3be-8ee3c2cfd1e9
-https://docs.microsoft.com/en-us/azure/devops/integrate/get-started/authentication/oauth?view=azure-devops#use-the-access-token
-https://github.com/microsoft/azure-devops-auth-samples/tree/master/OAuthWebSample
-https://zeropointdevelopment.com/how-to-get-https-working-in-windows-10-localhost-dev-environment/
-https://medium.com/@rubenvermeulen/running-angular-cli-over-https-with-a-trusted-certificate-4a0d5f92747a
-https://docs.microsoft.com/en-us/azure/devops/integrate/get-started/authentication/oauth?view=azure-devops#authorize-your-app
-https://dev.azure.com/teamaudit/GRCEVOL/_apis/wit/workItems/479/updates
-http://jsonviewer.stack.hu/
-https://app.vssps.visualstudio.com/oauth2/authorize?client_id=837EC619-6395-4B22-B3BE-8EE3C2CFD1E9&response_type=Assertion&scope=vso.work&redirect_uri=https://localhost:4200/estimativa/login
+- https://app.vsaex.visualstudio.com/app/view?clientId=837ec619-6395-4b22-b3be-8ee3c2cfd1e9
+- https://docs.microsoft.com/en-us/azure/devops/integrate/get-started/authentication/oauth?view=azure-devops#use-the-access-token
+- https://github.com/microsoft/azure-devops-auth-samples/tree/master/OAuthWebSample
+- https://zeropointdevelopment.com/how-to-get-https-working-in-windows-10-localhost-dev-environment/
+- https://medium.com/@rubenvermeulen/running-angular-cli-over-https-with-a-trusted-certificate-4a0d5f92747a
+- https://docs.microsoft.com/en-us/azure/devops/integrate/get-started/authentication/oauth?view=azure-devops#authorize-your-app
+- https://dev.azure.com/teamaudit/GRCEVOL/_apis/wit/workItems/479/updates
+- http://jsonviewer.stack.hu/
+- https://app.vssps.visualstudio.com/oauth2/authorize?client_id=837EC619-6395-4B22-B3BE-8EE3C2CFD1E9&response_type=Assertion&scope=vso.work&redirect_uri=https://localhost:4200/estimativa/login
